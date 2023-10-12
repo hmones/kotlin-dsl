@@ -5,7 +5,7 @@ plugins {
     id("com.diffplug.spotless") version "6.19.0"
     id("jacoco")
     id("com.github.jk1.dependency-license-report") version "2.5"
-    id("com.adarshr.test-logger") version "3.2.0"
+    id("com.adarshr.test-logger") version "4.0.0"
     id("maven-publish")
 }
 
